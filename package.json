@@ -1,7 +1,7 @@
 {
   "name": "token-server",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "index.js",
   "dependencies": {
     "body-parser": "^1.13.2",
     "express": "^4.13.1",

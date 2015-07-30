@@ -3,7 +3,6 @@
 
   var PORT = process.env.PORT || 80;
 
-  var https    = require('https');
   var express  = require('express');
   var MyServer = require('./server');
 
